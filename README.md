@@ -3,7 +3,7 @@
 A browser-based Level Design tool that turns raw telemetry data into interactive
 player-path overlays, heatmaps, and match timelines on the game's minimaps.
 
-**Live tool:** `<your-streamlit-url-here>`
+**Live tool:** https://sanjeevnandakumar.streamlit.app
 
 ---
 
